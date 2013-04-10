@@ -15,7 +15,7 @@ run the script:
 	example: node scrapper.app.js fuse.tv
 
 el creditos:
-if you like this script press [here](http://cs6283.vk.me/u10039947/doc/ecb86832fec2/Gifki-Dzhim-Kerri-Radost-446075.gif/)
+if you like this script press [here](http://postimg.org/image/xttv6wbyb/)
 
 
 	
