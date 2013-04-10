@@ -16,7 +16,7 @@ run the script:
 
 el creditos
 
-	if you like the script press [here]
+	if you like the script press [here][]
 
 [here]: http://cs6283.vk.me/u10039947/doc/ecb86832fec2/Gifki-Dzhim-Kerri-Radost-446075.gif
 
