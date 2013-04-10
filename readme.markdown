@@ -9,6 +9,8 @@ node modules was used:
  	3) optimist
  	4) colors
 
+ 	extra) jQuery / Node.js
+
 run the script:
 
 	node scrapper.app.js siteName
