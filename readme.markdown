@@ -1,6 +1,7 @@
 short about:
 	
-	Featured application takes a URL as input. It outputs title, description and clickable links of the page. v0.1 of the code provides stable work only with html-type docs.
+	Featured application takes a URL as input. It outputs title, description and clickable links of the page.
+	v0.1 of the code provides stable work only with html-type docs.
 
 node modules was used:
 
