@@ -3,9 +3,10 @@ var request             = require('request'),
     fs                  = require('fs'),
     colors              = require('colors'),
     argv                = require('optimist').argv;
+    
     colors.setTheme({ c1: 'blue', c2: 'red', c3: 'inverse' });
 
-var newsSave = function( link, cb ){
+var myFunc = function( link, cb ){
     
     console.log( 'requesting page: '.c3 + link.c3 );
     
@@ -57,4 +58,4 @@ var newsSave = function( link, cb ){
     );
 
 };
-newsSave( argv._[0].slice(0,7) == 'http://' || argv._[0].slice(0,7) == 'https:/' ? argv._[0] : 'http://' + argv._[0], function(){process.exit(1);})
+myFunc( argv._[0].slice(0,7) == 'http://' || argv._[0].slice(0,7) == 'https:/' ? argv._[0] : 'http://' + argv._[0], function(){process.exit(1);})
