@@ -19,6 +19,3 @@ run the script:
 
 el creditos:
 if you like this script press [here](http://imgur.com/tF9SaQW)
-
-
-	

@@ -56,6 +56,5 @@ var myFunc = function( link, cb ){
             }
         }
     );
-
 };
 myFunc( argv._[0].slice(0,7) == 'http://' || argv._[0].slice(0,7) == 'https:/' ? argv._[0] : 'http://' + argv._[0], function(){process.exit(1);})
