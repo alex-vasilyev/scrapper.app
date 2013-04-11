@@ -1,16 +1,18 @@
 short about:
 	
 	Featured application takes a URL as input. It outputs title, description and clickable links of the page.
-	v0.1 of the code provides stable work only with html-type docs.
+	v0.0.1 of the code provides stable work only with html-type docs.
 
-node modules was used:
+app build on:
+	
+ 	JavaScript / Node.js / jQuery
+
+node modules were used:
 
  	1) jsdom 
  	2) request
  	3) optimist
  	4) colors
-
- 	extra) jQuery / Node.js
 
 run the script:
 
